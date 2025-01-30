@@ -5,3 +5,5 @@ Je dois ajouter un petit paragraphe en dessous du titre, je dois ajouter un peti
  J'ajoute un nouveau paragraphe, j'ajoute un nouveau paragraphe, j'ajoute un nouveau paragraphe, que penses-tu de ce nouveau paragraphe aaaaaaaaaaaaah
 
  Git is a version control system used for tracking changes in computer files. It is generally used for source code management in software development.
+
+Divers outils comme GitHub, GitLab et Bitbucked fournissent des plateformes pour héberger des dépôts Git tout en intégrant des fonctionnalités trop trop cool
